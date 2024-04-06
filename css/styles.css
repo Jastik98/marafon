@@ -80,7 +80,7 @@ body {
 }
 .facts {
   padding-top: 48px;
-  padding-bottom: 100px;
+  padding-bottom: 0px;
   text-align: center;
   margin: auto;
 }
@@ -96,7 +96,7 @@ body {
   width: 772px;
   margin: auto;
   margin-top: 0;
-  margin-bottom: 24px;
+  margin-bottom: 0px;
 }
 
 .facts-item-title {
